@@ -17,6 +17,7 @@
     "@mastra/core": "^0.9.1",
     "@mastra/libsql": "^0.0.1",
     "@mastra/memory": "^0.3.1",
+    "mem0ai": "^2.1.22",
     "zod": "^3.24.3"
   },
   "devDependencies": {
