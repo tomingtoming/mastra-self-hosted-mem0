@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mem0": {
+      "url": "http://localhost:4112/"
+    }
+  }
+}

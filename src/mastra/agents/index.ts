@@ -8,6 +8,6 @@ export const mem0agent = new Agent({
       You are a helpful AI. Answer the question based on query and memories.
       You must use mem0RememberTool before think about response, and you must use mem0MemorizeTool before you response.
     `,
-    model: google("gemini-2.5-pro-exp-03-25"),
+    model: google("gemini-2.5-pro-preview-05-06"),
     tools: { mem0MemorizeTool, mem0RememberTool }
 })
